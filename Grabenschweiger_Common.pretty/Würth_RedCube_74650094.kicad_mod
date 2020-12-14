@@ -18,7 +18,7 @@
   (pad 1 thru_hole circle (at 0 4.435) (size 3.2 3.2) (drill 1.85) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -4.435 4.435) (size 3.2 3.2) (drill 1.85) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at -4.435 0) (size 3.2 3.2) (drill 1.85) (layers *.Cu *.Mask))
-  (model ${KIPRJMOD}/libs/3dModels/Grabenschweiger.3D/Wuerth_RedCube_M5_74650094.stp
+  (model ${KISYS3DMOD}/Grabenschweiger.3dshapes/Wuerth_RedCube_M5_74650094.stp
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

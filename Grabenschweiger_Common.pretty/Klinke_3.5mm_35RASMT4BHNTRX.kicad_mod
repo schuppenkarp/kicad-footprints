@@ -22,7 +22,7 @@
   (pad S smd rect (at 2.4 3.8) (size 2.2 2.6) (layers F.Cu F.Paste F.Mask))
   (pad RN smd rect (at 1.6 -3.8) (size 2 2.6) (layers F.Cu F.Paste F.Mask))
   (pad R smd rect (at 4.3 -3.8) (size 2.2 2.6) (layers F.Cu F.Paste F.Mask))
-  (model "${KIPRJMOD}/libs/3dModels/Grabenschweiger.3D/User Library-35RASMT4BHNTRX.STEP"
+  (model "${KISYS3DMOD}/Grabenschweiger.3dshapes/User Library-35RASMT4BHNTRX.STEP"
     (offset (xyz 0 0 2.5))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 90))

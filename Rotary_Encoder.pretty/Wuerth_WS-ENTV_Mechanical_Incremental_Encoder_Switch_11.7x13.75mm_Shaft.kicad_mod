@@ -1,4 +1,4 @@
-(module Wuerth_WS-ENTV_Mechanical_Incremental_Encoder_Switch_11.7x13.75mm_Shaft (layer F.Cu) (tedit 5FCF51AA)
+(module Wuerth_WS-ENTV_Mechanical_Incremental_Encoder_Switch_11.7x13.75mm_Shaft (layer F.Cu) (tedit 5FD7960A)
   (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, mounting holes with circular drills, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC12E/EC12E1240405.html & http://cdn-reichelt.de/documents/datenblatt/F100/402097STEC12E08.PDF")
   (tags "rotary encoder")
   (fp_text reference REF** (at 2.8 -4.7) (layer F.SilkS)
@@ -44,7 +44,7 @@
   (pad B thru_hole circle (at 0 5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad C thru_hole circle (at 0 2.5) (size 2 2) (drill 1) (layers *.Cu *.Mask))
   (pad A thru_hole rect (at 0 0) (size 2 2) (drill 1) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/RotaryEncdoder.3dshapes/Wuerth_WS-ENTV_RotaryEncoder_482016514001.stp
+  (model ${KISYS3DMOD}/RotaryEncoder.3dshapes/Wuerth_WS-ENTV_RotaryEncoder_482016514001.stp
     (offset (xyz 7.5 -2.5 6.25))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
